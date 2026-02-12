@@ -12,7 +12,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,mongodb,aws,docker,linux,git,github,jvscode" />
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,mysql,mongodb,aws,docker,linux,git,github,vscode" />
 </p>
 
 ---
